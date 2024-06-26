@@ -19,5 +19,9 @@ MySQL connector for Python installed <br>
 # Install Necessary packages
 pip install tkinter mysql-connector-python
 
+# MYSQL Server
+Open MYSQL (command line or workbench) . <br>
+Paste server.sql code line by line .
+
 # Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.

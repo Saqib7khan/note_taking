@@ -8,8 +8,8 @@ import re
 def db_connect():
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="sakhpiffAA",
+        user="yourusername", # root by default
+        password="yourpassword",  
         database="note_taking_app"
     )
 
