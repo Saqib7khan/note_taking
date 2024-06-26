@@ -14,3 +14,10 @@ User-friendly interface with Tkinter <br>
 Python 3.x installed on your machine <br>
 MySQL server installed and running <br>
 MySQL connector for Python installed <br>
+
+
+# Install Necessary packages
+pip install tkinter mysql-connector-python
+
+# Contributing
+If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
